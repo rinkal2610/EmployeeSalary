@@ -1,0 +1,8 @@
+C:\DotNetTraining\Day2\ConAppSalary\ConAppSalary\bin\Debug\ConAppSalary.exe.config
+C:\DotNetTraining\Day2\ConAppSalary\ConAppSalary\bin\Debug\ConAppSalary.exe
+C:\DotNetTraining\Day2\ConAppSalary\ConAppSalary\bin\Debug\ConAppSalary.pdb
+C:\DotNetTraining\Day2\ConAppSalary\ConAppSalary\obj\Debug\ConAppSalary.csproj.AssemblyReference.cache
+C:\DotNetTraining\Day2\ConAppSalary\ConAppSalary\obj\Debug\ConAppSalary.csproj.SuggestedBindingRedirects.cache
+C:\DotNetTraining\Day2\ConAppSalary\ConAppSalary\obj\Debug\ConAppSalary.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\Day2\ConAppSalary\ConAppSalary\obj\Debug\ConAppSalary.exe
+C:\DotNetTraining\Day2\ConAppSalary\ConAppSalary\obj\Debug\ConAppSalary.pdb
